@@ -13,3 +13,9 @@ app_file: app.py
 
 AI-powered detection of electronic components, PCB surface defects,
 and solder assembly defects using three trained YOLO models.
+
+## 🚀 Live Demo
+
+Try the AI PCB Intelligence System here:
+
+[Launch Live Demo on Hugging Face](https://huggingface.co/spaces/VaishaliSharma/ai-pcb-defect-detection)
