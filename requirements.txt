@@ -1,0 +1,5 @@
+
+ultralytics==8.4.212
+pandas
+pillow
+opencv-python-headless
